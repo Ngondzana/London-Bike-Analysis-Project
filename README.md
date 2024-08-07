@@ -38,12 +38,12 @@ The project utilizes the following technologies and libraries:
 ## Usage
 To run the project, follow these steps:
 
-1. Clone the repository to your local machine. '' git clone https://github.com/Ngondzana/London-Bike-Analysis-Project''
+1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Run the Jupyter Notebook or Python script to execute the data analysis and generate the visualizations.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have ideas for improvements, please feel free to create a new issue or submit a pull request.
 
-## License
+## Acknowledgement
 I extend my appreciation to the Kaggle community for providing access to the London Bike Share dataset and to [Mo Chen](https://www.linkedin.com/in/mo-chen1/) for valuable insights into effective data visualization techniques.
